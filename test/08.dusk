@@ -1,0 +1,7 @@
+# Functions
+
+define greet (name: str) {
+    return "Hello, " + name; 
+}
+
+greet("Orlson");

@@ -1,0 +1,9 @@
+# Flow Control Statements & Booleans
+
+let age: int = 17;
+let allowed: bool = true;
+let legal: bool;
+
+if age >= 18 and allowed {
+    legal = true;
+} else { legal = false; }
