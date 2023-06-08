@@ -16,7 +16,7 @@ Dusk Lang is an endeavor to create a unique and unconventional language that pro
 
 ## Installation
 
-To use the Custom Experimental Programming Language and its interpreter, follow these steps:
+To use Dusk and its interpreter, follow these steps:
 
 1. Clone this repository to your local machine: `git clone https://github.com/orlsonjoseph/dusk-lang.git`.
 2. Navigate to the cloned directory: `cd dusk-lang`.
