@@ -36,4 +36,4 @@ Contributions to Dusk Lang and its interpreter are welcome. If you have ideas fo
 
 ## License
 
-This Custom Experimental Programming Language and its interpreter are released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as permitted by the license.
+This custom experimental programming language and its interpreter are released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as permitted by the license.
